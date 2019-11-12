@@ -15,13 +15,13 @@ I am a postdoctoral researcher at the Department of Civil and Environmental Engi
 Awards and Service
 ======
 
-2019     Natural Hazards Engineering Research Infrastructure (NHERI) Summer Institute Travel Grant
-2019     Annual Meeting Registration Grant for Early Career Professionals, Earthquake Engineering Research Institute
-2017     Graduate Studies Travel Award, UC Davis
-2017     Finalist for the Outstanding Graduate Student Teaching Award, UC Davis
-2016     O.H. Ammann Research Award in Structural Engineering, American Society of Civil Engineers, Structural                       Engineering Institute
-2014     Civil and Environmental Engineering Graduate Fellowship, UC Davis
-2013     Honors Graduate Student Award in Construction Engineering, American University in Cairo
-2011     Laboratory Instruction Graduate Fellowship, Construction Engineering, American University in Cairo
-2010     Honors Undergraduate Student Award in Construction Engineering, American University in Cairo
-2005     Leadership for Education and Development Program (LEAD) undergraduate scholarship, American University in Cairo
+-2019     Natural Hazards Engineering Research Infrastructure (NHERI) Summer Institute Travel Grant
+-2019     Annual Meeting Registration Grant for Early Career Professionals, Earthquake Engineering Research Institute
+-2017     Graduate Studies Travel Award, UC Davis
+-2017     Finalist for the Outstanding Graduate Student Teaching Award, UC Davis
+-2016     O.H. Ammann Research Award in Structural Engineering, American Society of Civil Engineers, Structural                       Engineering Institute
+-2014     Civil and Environmental Engineering Graduate Fellowship, UC Davis
+-2013     Honors Graduate Student Award in Construction Engineering, American University in Cairo
+-2011     Laboratory Instruction Graduate Fellowship, Construction Engineering, American University in Cairo
+-2010     Honors Undergraduate Student Award in Construction Engineering, American University in Cairo
+-2005     Leadership for Education and Development Program (LEAD) undergraduate scholarship, American University in Cairo
