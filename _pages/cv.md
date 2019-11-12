@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * Ph.D. in Civil and Environmental Engineering, University of California, Davis, 2018
-  Area of Specialization: Structural Engineering, minor in Computational Mechanics
+  * Area of Specialization: Structural Engineering, minor in Computational Mechanics
 * M.Sc. in Construction Engineering, American University in Cairo, 2015
-  Area of Specialization: Structural Engineering and Construction Materials
+  * Area of Specialization: Structural Engineering and Construction Materials
 * B.Sc. in Construction Engineering, American University in Cairo, 2011
-  Area of Specialization: Structures and Construction Materials
+  * Area of Specialization: Structures and Construction Materials
 * Minor in Journalism and Mass Communication
 
 Work experience
