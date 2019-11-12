@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Civil and Environmental Engineering, University of California, Davis, 2018
+  Area of Specialization: Structural Engineering, minor in Computational Mechanics
+* M.Sc. in Construction Engineering, American University in Cairo, 2015
+  Area of Specialization: Structural Engineering and Construction Materials
+* B.Sc. in Construction Engineering, American University in Cairo, 2011
+  Area of Specialization: Structures and Construction Materials
+* Minor in Journalism and Mass Communication
 
 Work experience
 ======
