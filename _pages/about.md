@@ -24,8 +24,13 @@ Awards and Service
 2017     Finalist for the Outstanding Graduate Student Teaching Award, UC Davis
 
 2016     O.H. Ammann Research Award in Structural Engineering, American Society of Civil Engineers, Structural                       Engineering Institute
--2014     Civil and Environmental Engineering Graduate Fellowship, UC Davis
--2013     Honors Graduate Student Award in Construction Engineering, American University in Cairo
--2011     Laboratory Instruction Graduate Fellowship, Construction Engineering, American University in Cairo
--2010     Honors Undergraduate Student Award in Construction Engineering, American University in Cairo
--2005     Leadership for Education and Development Program (LEAD) undergraduate scholarship, American University in Cairo
+
+2014     Civil and Environmental Engineering Graduate Fellowship, UC Davis
+
+2013     Honors Graduate Student Award in Construction Engineering, American University in Cairo
+
+2011     Laboratory Instruction Graduate Fellowship, Construction Engineering, American University in Cairo
+
+2010     Honors Undergraduate Student Award in Construction Engineering, American University in Cairo
+
+2005     Leadership for Education and Development Program (LEAD) undergraduate scholarship, American University in Cairo
