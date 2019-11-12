@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -21,24 +21,11 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Postdoctoral Scholar, Civil and Environmental Engineering, University of Nevada, Reno (2019 – present)
+  * I design and perform computational research studies to quantify the near-field effects of earthquakes on reinforced concrete buildings.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Graduate Student Researcher, Civil and Environmental Engineering (CEE), University of California, Davis (2015 – 2018)
+  * I created and validated a multiscale computational framework for improving the prediction of localized damage in reinforced concrete     structures subjected to earthquakes. I also introduced a regularized statistical approach to seismic demand models, which reduces       the uncertainty associated with predicting structural response using small sets of earthquake ground motion data.
 
 Publications
 ======
