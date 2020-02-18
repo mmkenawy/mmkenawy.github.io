@@ -15,34 +15,21 @@ I am a postdoctoral researcher at the Department of Civil and Environmental Engi
 Professional Affiliations
 ======
 - Co-Chair of the Earthquake Engineering Research Institute Younger Members Committee
-
 - Associate member of the American Society of Civil Engineers
-
 - Affiliate member of the National Postdoctoral Association
 
 
 Awards
 ======
-2020     Annual Meeting Registration Grant for Early Career Professionals, Earthquake Engineering Research Institute
-
-2019     Natural Hazards Engineering Research Infrastructure (NHERI) Summer Institute Travel Grant
-
-2019     Professional Development Postdoctoral Travel Award, University of Nevada, Reno
-
-2019     Annual Meeting Registration Grant for Early Career Professionals, Earthquake Engineering Research Institute
-
-2017     Graduate Studies Travel Award, UC Davis
-
-2017     Finalist for the Outstanding Graduate Student Teaching Award, UC Davis
-
-2016     O.H. Ammann Research Award in Structural Engineering, American Society of Civil Engineers, Structural                       Engineering Institute
-
-2014     Civil and Environmental Engineering Graduate Fellowship, UC Davis
-
-2013     Honors Graduate Student Award in Construction Engineering, American University in Cairo
-
-2011     Laboratory Instruction Graduate Fellowship, Construction Engineering, American University in Cairo
-
-2010     Honors Undergraduate Student Award in Construction Engineering, American University in Cairo
-
-2005     Leadership for Education and Development Program (LEAD) undergraduate scholarship, American University in Cairo
+- 2020 Annual Meeting Registration Grant for Early Career Professionals, Earthquake Engineering Research Institute
+- Natural Hazards Engineering Research Infrastructure (NHERI) 2019 Summer Institute Travel Grant
+- Professional Development Postdoctoral Travel Award, University of Nevada, Reno
+- 2019 Annual Meeting Registration Grant for Early Career Professionals, Earthquake Engineering Research Institute
+- 2017 Graduate Studies Travel Award, University of California, Davis
+- Finalist for the 2017 Outstanding Graduate Student Teaching Award, UC Davis
+- 2016 O.H. Ammann Research Award in Structural Engineering, American Society of Civil Engineers, Structural                       Engineering Institute
+- Civil and Environmental Engineering department raduate Fellowship, 2014, UC Davis
+- Honors Graduate Student Award in Construction Engineering, 2013, American University in Cairo
+- 2011 Laboratory Instruction Graduate Fellowship, Construction Engineering, American University in Cairo
+- Honors Undergraduate Student Award in Construction Engineering, 2011, American University in Cairo
+- Leadership for Education and Development Program (LEAD) undergraduate scholarship, 2005, American University in Cairo
