@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Maha Kenawy"
   avatar           : "headshot.jpg"
-  bio              : "Postdoctoral Scholar at the University of Nevada, Reno"
+  bio              : "Postdoctoral Scholar"
   location         : "Reno, NV"
-  employer         :
+  employer         : "University of Nevada, Reno"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IoWP9U0AAAAJ&hl=en"
-  email            :
+  email            : "mkenawy@unr.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,10 +99,10 @@ author:
   github           : "mmkenawy"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/maha-kenawy-ab76714a/"
   orcid            : "https://orcid.org/0000-0002-9722-091X"
   pinterest        :
   soundcloud       :
