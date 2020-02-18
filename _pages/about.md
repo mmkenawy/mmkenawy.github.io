@@ -14,11 +14,11 @@ I am a postdoctoral researcher at the Department of Civil and Environmental Engi
 
 Professional Affiliations
 ======
-Co-Chair of the Earthquake Engineering Research Institute Younger Members Committee
+- Co-Chair of the Earthquake Engineering Research Institute Younger Members Committee
 
-Associate member of the American Society of Civil Engineers
+- Associate member of the American Society of Civil Engineers
 
-Affiliate member of the National Postdoctoral Association
+- Affiliate member of the National Postdoctoral Association
 
 
 Awards
