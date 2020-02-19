@@ -12,6 +12,12 @@ I am a postdoctoral researcher at the Department of Civil and Environmental Engi
 
 [Curriculum Vitae](http://mmkenawy.github.io/files/Maha_Kenawy_CV_2019_November.pdf)
 
+Education
+======
+- Ph.D. in Civil and Environmental Engineering, 2018, University of California, Davis
+- M.Sc. in Construction Engineering, 2015, American University in Cairo, Egypt
+- B.Sc in Construction Engineering, 2011, American University in Cairo, Egypt
+
 Professional Affiliations
 ======
 - Co-Chair of the Earthquake Engineering Research Institute Younger Members Committee
