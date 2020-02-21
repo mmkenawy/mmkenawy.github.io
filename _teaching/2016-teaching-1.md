@@ -1,5 +1,5 @@
 ---
-title: "Engineering Statics, Instructor-of-Record"
+title: "Engineering Statics, instructor-of-record"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2016-teaching-1
