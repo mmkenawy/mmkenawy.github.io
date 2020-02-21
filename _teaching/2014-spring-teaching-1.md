@@ -2,9 +2,9 @@
 title: "Engineering Statics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2016-teaching-1
 venue: "University of California, Davis, Department of Civil and Environmental Engineering"
-date: Summer 2016
+date: "Summer 2016"
 location: "Davis"
 ---
 
