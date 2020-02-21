@@ -1,7 +1,7 @@
 ---
-title: "Mechanics of Materials, teaching assistant"
+title: "Mechanics of Materials"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching assistant"
 permalink: /teaching/2016-teaching-1
 venue: "University of California, Davis, Department of Civil and Environmental Engineering"
 date: "2017-01-01"
