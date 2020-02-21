@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Senior Design, advisor"
+title: "Undergraduate Senior Design, student advisor"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-teaching-1
