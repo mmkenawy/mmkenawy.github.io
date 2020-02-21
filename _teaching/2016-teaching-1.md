@@ -1,5 +1,5 @@
 ---
-title: "Engineering Statics"
+title: "Instructor-of-Record"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2016-teaching-1
@@ -8,7 +8,5 @@ date: "Summer 2016"
 location: "Davis"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Engineering Statics
 
-Instructor
-======
