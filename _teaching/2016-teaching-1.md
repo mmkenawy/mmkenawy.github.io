@@ -1,7 +1,7 @@
 ---
-title: "Engineering Statics, instructor-of-record"
+title: "Engineering Statics"
 collection: teaching
-type: "Undergraduate course"
+type: "Instructor-of-record"
 permalink: /teaching/2016-teaching-1
 venue: "University of California, Davis, Department of Civil and Environmental Engineering"
 date: "2016-01-01"
