@@ -1,7 +1,7 @@
 ---
 title: "Concrete Uniaxial Nonlocal Damage-Plasticity Model for Simulating Post-Peak Response of Reinforced Concrete Beam-Columns under Cyclic Loading"
 collection: publications
-permalink: /publication/2020-01-01-Concrete-Uniaxial-Nonlocal-Damage-Plasticity-Model-for-Simulating-Post-Peak-Response-of-Reinforced-Concrete-Beam-Columns-under-Cyclic-Loading
+permalink: /publication/2020-kenawy
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-01-01
 venue: 'Journal of Structural Engineering'
