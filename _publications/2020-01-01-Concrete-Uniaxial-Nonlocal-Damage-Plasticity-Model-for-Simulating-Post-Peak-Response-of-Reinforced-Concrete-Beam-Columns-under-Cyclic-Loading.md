@@ -11,3 +11,5 @@ citation: 'Kenawy, M., Kunnath, S.K., Kolwankar, S., and Kanvinde, A. (2020). &q
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://mmkenawy.github.io/files/kenawy2020.pdf)
+
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
